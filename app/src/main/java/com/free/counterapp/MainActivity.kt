@@ -23,7 +23,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.free.counterapp.ui.theme.CounterAppTheme
-import com.free.counterapp.ui.theme.CounterViewModel
 
 class MainActivity : ComponentActivity() {
     private val viewModel by viewModels<CounterViewModel>()

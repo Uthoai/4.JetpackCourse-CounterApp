@@ -1,4 +1,4 @@
-package com.free.counterapp.ui.theme
+package com.free.counterapp
 
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
